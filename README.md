@@ -1,6 +1,6 @@
-# 💻Saucedmo - Projeto de Automação Web
+# 💻Saucedmo - Exemplo de Automação Web feature Login
 
-Este projeto é uma suíte de testes automatizados para a aplicação web **SauceDemo**. O projeto utiliza Selenium para automação de navegadores e Cucumber para a definição e execução de testes baseados em BDD (Behavior Driven Development).
+Este projeto é uma suíte de testes automatizados para a feature de Login daaplicação web **SauceDemo**. O projeto utiliza Selenium para automação de navegadores e Cucumber para a definição e execução de testes baseados em BDD (Behavior Driven Development).
 
 
 # 👨🏻‍💻Tecnologias Utilizadas
